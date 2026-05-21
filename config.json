@@ -1,0 +1,22 @@
+{
+  "camera_ip": "192.168.1.10",
+  "camera_port": "4747",
+  "api_url": "https://srcapture.iratna.com/SRcapture/Hallmarking/fire_uploader/api/req_job.php",
+  "save_folder": "C:\\Users\\syedr\\OneDrive\\Documents\\HUID",
+  "capture_keys": [
+    "f2",
+    "space",
+    "enter"
+  ],
+  "manak_user": "userquam2",
+  "manak_pass": "123456",
+  "license_key": "",
+  "manak_material": "Gold",
+  "manak_ecml_no": "",
+  "manak_outlet_id": "",
+  "oto_excel_path": "J:\\my_apps\\SR_PHOTO_CAPTURE\\huid_sample.xlsx",
+  "oto_image_folder": "",
+  "oto_output_folder": "",
+  "browser_zoom": 0.8,
+  "manak_base_url": "https://newmanak.uat.dcservices.in/MANAK"
+}
