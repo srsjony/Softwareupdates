@@ -1,0 +1,10 @@
+{
+  "product": "SRPhotoCapture",
+  "version": "3.5.0",
+  "mandatory": false,
+  "releaseDate": "2026-06-12",
+  "downloadUrl": "https://github.com/srsjony/Softwareupdates/releases/download/v3.5.0/SR_PHOTO_CAPTURE.exe",
+  "sha256": "b71cb36fd4f6123c375f3bbad4dfc1a9cf2d9cd79c7ea414b594b97f5b8d76d5",
+  "message": "Initial release with auto-updater support.",
+  "fileSize": 116744441
+}
