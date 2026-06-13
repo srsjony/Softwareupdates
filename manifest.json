@@ -4,7 +4,7 @@
     "mandatory":  false,
     "releaseDate":  "2026-06-13",
     "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.5.2/SRPhotoCapture_v-3.5.2.exe",
-    "sha256":  "af8250f12f49c0850e83bb7116cd0d5761977d35d6e927b6e96002d1d812bf37",
-    "message":  "Release v3.5.2: Implemented parallel background AJAX uploads, session validation precheck, recent captures manual upload choice dialog, and Phone Companion PWA upgrades including IndexedDB caching, camera switcher, compression slider, and Catppuccin mocha theme.",
-    "fileSize":  116191502
+    "sha256":  "77664cd958452be063db6ea99e2f668d2bf572a3a87174bf3afffe8971e376e4",
+    "message":  "Release v3.5.2: Implemented parallel background AJAX uploads, recent captures manual upload choice dialog, and Phone Companion PWA upgrades including IndexedDB caching, camera switcher, compression slider, and Catppuccin mocha theme.",
+    "fileSize":  116190466
 }
