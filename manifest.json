@@ -1,10 +1,10 @@
 {
     "product":  "SRPhotoCapture",
-    "version":  "3.5.2",
+    "version":  "3.5.3",
     "mandatory":  false,
-    "releaseDate":  "2026-06-13",
-    "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.5.2/SRPhotoCapture_v-3.5.2.exe",
-    "sha256":  "77664cd958452be063db6ea99e2f668d2bf572a3a87174bf3afffe8971e376e4",
-    "message":  "Release v3.5.2: Implemented parallel background AJAX uploads, recent captures manual upload choice dialog, and Phone Companion PWA upgrades including IndexedDB caching, camera switcher, compression slider, and Catppuccin mocha theme.",
-    "fileSize":  116190466
+    "releaseDate":  "2026-06-14",
+    "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.5.3/SRPhotoCapture_v-3.5.3.exe",
+    "sha256":  "ad83cdbd8889567197d6ac1ae575a3f76970e32beffc4df588dbe7e253452a6a",
+    "message":  "Fix companion app connection issue and resolve live work upload and navigation hangs.",
+    "fileSize":  116189630
 }
