@@ -1,10 +1,10 @@
 {
     "product":  "SRPhotoCapture",
-    "version":  "3.5.3",
+    "version":  "3.5.4",
     "mandatory":  false,
     "releaseDate":  "2026-06-14",
-    "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.5.3/SRPhotoCapture_v-3.5.3.exe",
-    "sha256":  "ad83cdbd8889567197d6ac1ae575a3f76970e32beffc4df588dbe7e253452a6a",
-    "message":  "Fix companion app connection issue and resolve live work upload and navigation hangs.",
-    "fileSize":  116189630
+    "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.5.4/SRPhotoCapture_v-3.5.4.exe",
+    "sha256":  "a2cdd798abb09cff74345c1ce79fc4f6f4cd32bf721920abea2510a85cea5fde",
+    "message":  "Fix: Add firewall inbound block rule detection and automatic removal to solve phone connection issues",
+    "fileSize":  116190133
 }
