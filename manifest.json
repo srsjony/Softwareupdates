@@ -1,10 +1,10 @@
 {
     "product":  "SRPhotoCapture",
-    "version":  "3.5.4",
+    "version":  "3.5.5",
     "mandatory":  false,
-    "releaseDate":  "2026-06-14",
-    "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.5.4/SRPhotoCapture_v-3.5.4.exe",
-    "sha256":  "a2cdd798abb09cff74345c1ce79fc4f6f4cd32bf721920abea2510a85cea5fde",
-    "message":  "Fix: Add firewall inbound block rule detection and automatic removal to solve phone connection issues",
-    "fileSize":  116190133
+    "releaseDate":  "2026-06-17",
+    "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.5.5/SRPhotoCapture_v-3.5.5.exe",
+    "sha256":  "7d906e4dd0d6d57a7f22dd1b6b2846e633c81ce6642dad0e8083b00bf7a5bd5c",
+    "message":  "Improved application performance and auto-updater integration.",
+    "fileSize":  116195019
 }
