@@ -4,7 +4,7 @@
     "mandatory":  false,
     "releaseDate":  "2026-06-17",
     "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.5.6/SRPhotoCapture_v-3.5.6.exe",
-    "sha256":  "12801d8686e1563a5f74c270b7506f543df83deede599da2ca7731f63312f966",
-    "message":  "Improved application performance and auto-updater integration.",
-    "fileSize":  116195016
+    "sha256":  "046897efd8daf9a82536de530197b46a24f6e86f59196f8c0d60dc7a0f5900fd",
+    "message":  "Improved camera configuration compatibility under single local webcam setups.",
+    "fileSize":  116195055
 }
