@@ -1,10 +1,10 @@
 {
-    "product":  "SRPhotoCapture",
-    "version":  "3.5.6",
-    "mandatory":  false,
-    "releaseDate":  "2026-06-17",
-    "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.5.6/SRPhotoCapture_v-3.5.6.exe",
-    "sha256":  "046897efd8daf9a82536de530197b46a24f6e86f59196f8c0d60dc7a0f5900fd",
-    "message":  "Improved camera configuration compatibility under single local webcam setups.",
-    "fileSize":  116195055
+  "product": "SRPhotoCapture",
+  "version": "3.5.7",
+  "mandatory": false,
+  "releaseDate": "2026-06-20",
+  "downloadUrl": "https://github.com/srsjony/Softwareupdates/releases/download/v3.5.7/SRPhotoCapture_v-3.5.7.exe",
+  "sha256": "ed477b3fe3dafcc9e58cb4be8a431af1b38a0787339b680e88daa15317a947a0",
+  "message": "Single-instance launch (no duplicate windows), auto-open Manak login on launch, HUID display improvements, and phone companion upload reliability fixes.",
+  "fileSize": 116195655
 }
