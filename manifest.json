@@ -1,10 +1,10 @@
 {
   "product": "SRPhotoCapture",
-  "version": "3.5.7",
+  "version": "3.5.8",
   "mandatory": false,
-  "releaseDate": "2026-06-20",
-  "downloadUrl": "https://github.com/srsjony/Softwareupdates/releases/download/v3.5.7/SRPhotoCapture_v-3.5.7.exe",
-  "sha256": "ed477b3fe3dafcc9e58cb4be8a431af1b38a0787339b680e88daa15317a947a0",
-  "message": "Single-instance launch (no duplicate windows), auto-open Manak login on launch, HUID display improvements, and phone companion upload reliability fixes.",
-  "fileSize": 116195655
+  "releaseDate": "2026-06-21",
+  "downloadUrl": "https://github.com/srsjony/Softwareupdates/releases/download/v3.5.8/SRPhotoCapture_v-3.5.8.exe",
+  "sha256": "5c7547ec09fc1769c0d82c6b64a0ec7375e3db23a93249a6e0e11e0ccf9aa934",
+  "message": "Removed HUID overlay watermark from captures, added post-upload verification against the portal, automatic camera restart on read errors, and readiness-based page-load waits.",
+  "fileSize": 116198273
 }
