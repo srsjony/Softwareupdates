@@ -1,10 +1,10 @@
 {
     "product":  "SRPhotoCapture",
-    "version":  "3.5.9",
+    "version":  "3.6.0",
     "mandatory":  false,
-    "releaseDate":  "2026-06-22",
-    "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.5.9/SRPhotoCapture_v-3.5.9.exe",
-    "sha256":  "7e915e2713354b1ce0c79d40af0a87ef7225dc904b8298b1ce863edc6fb588f0",
-    "message":  "Live Work: removed per-capture upload confirmation and fixed uploads not advancing to the next tag after a confirmed success.",
-    "fileSize":  116198329
+    "releaseDate":  "2026-06-23",
+    "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.0/SRPhotoCapture_v-3.6.0.exe",
+    "sha256":  "fb500076e81a0d146796eddca805ec60176438722020aede2750e5555cbf84ff",
+    "message":  "Live Work fixes: each capture now uploads only once (removed duplicate-upload poller) and advances to the next tag immediately on server-confirmed upload (removed redundant verification latency).",
+    "fileSize":  116196706
 }
