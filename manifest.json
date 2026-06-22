@@ -1,10 +1,10 @@
 {
-  "product": "SRPhotoCapture",
-  "version": "3.5.8",
-  "mandatory": false,
-  "releaseDate": "2026-06-21",
-  "downloadUrl": "https://github.com/srsjony/Softwareupdates/releases/download/v3.5.8/SRPhotoCapture_v-3.5.8.exe",
-  "sha256": "5c7547ec09fc1769c0d82c6b64a0ec7375e3db23a93249a6e0e11e0ccf9aa934",
-  "message": "Removed HUID overlay watermark from captures, added post-upload verification against the portal, automatic camera restart on read errors, and readiness-based page-load waits.",
-  "fileSize": 116198273
+    "product":  "SRPhotoCapture",
+    "version":  "3.5.9",
+    "mandatory":  false,
+    "releaseDate":  "2026-06-22",
+    "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.5.9/SRPhotoCapture_v-3.5.9.exe",
+    "sha256":  "7e915e2713354b1ce0c79d40af0a87ef7225dc904b8298b1ce863edc6fb588f0",
+    "message":  "Live Work: removed per-capture upload confirmation and fixed uploads not advancing to the next tag after a confirmed success.",
+    "fileSize":  116198329
 }
