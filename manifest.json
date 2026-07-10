@@ -1,10 +1,10 @@
 {
     "product":  "SRPhotoCapture",
-    "version":  "3.6.0",
+    "version":  "3.6.1",
     "mandatory":  false,
-    "releaseDate":  "2026-06-23",
-    "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.0/SRPhotoCapture_v-3.6.0.exe",
-    "sha256":  "fb500076e81a0d146796eddca805ec60176438722020aede2750e5555cbf84ff",
-    "message":  "Live Work fixes: each capture now uploads only once (removed duplicate-upload poller) and advances to the next tag immediately on server-confirmed upload (removed redundant verification latency).",
-    "fileSize":  116196706
+    "releaseDate":  "2026-07-10",
+    "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.1/SRPhotoCapture_v-3.6.1.exe",
+    "sha256":  "c9dc402b827911a81e7ec03ee25aa74f4fcdaccbd9135ba1a1a3c4557b241843",
+    "message":  "Release v3.6.1: Removed F3 keyboard shortcut and button labels.",
+    "fileSize":  116200232
 }
