@@ -1,10 +1,10 @@
 {
     "product":  "SRPhotoCapture",
-    "version":  "3.6.1",
+    "version":  "3.6.2",
     "mandatory":  false,
-    "releaseDate":  "2026-07-10",
-    "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.1/SRPhotoCapture_v-3.6.1.exe",
-    "sha256":  "c9dc402b827911a81e7ec03ee25aa74f4fcdaccbd9135ba1a1a3c4557b241843",
-    "message":  "Release v3.6.1: Removed F3 keyboard shortcut and button labels.",
-    "fileSize":  116200232
+    "releaseDate":  "2026-07-14",
+    "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.2/SRPhotoCapture_v-3.6.2.exe",
+    "sha256":  "a46f8d5aca1d3dcc9bf0cf8d594acd94e9545dda9c00cb55cfa6c1e01ede6eb9",
+    "message":  "Updated add article view and fixed zoom issue.",
+    "fileSize":  116204783
 }
