@@ -1,10 +1,10 @@
 {
     "product":  "SRPhotoCapture",
-    "version":  "3.6.3",
+    "version":  "3.6.4",
     "mandatory":  false,
     "releaseDate":  "2026-09-02",
-    "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.3/SRPhotoCapture_v-3.6.3.exe",
-    "sha256":  "a2383b51c3949ff454e4e68098a59f1c153ffa4878f4054b440d58ef21526139",
-    "message":  "Performance optimizations, camera stability fixes, HUID typing and search, and auto-navigate post login.",
-    "fileSize":  116209549
+    "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.4/SRPhotoCapture_v-3.6.4.exe",
+    "sha256":  "3e99450e9ead84c733abcdf0c8f150d7ae2e4d769d84596f66785183dc35c079",
+    "message":  "Companion app improvements, tag search and pipeline, safe server threading, and capture robustness.",
+    "fileSize":  116222749
 }
