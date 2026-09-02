@@ -1,1 +1,10 @@
-{"product":"SRPhotoCapture","version":"3.6.2","mandatory":false,"releaseDate":"2026-07-14","downloadUrl":"https://github.com/srsjony/Softwareupdates/releases/download/v3.6.2/SRPhotoCapture_v-3.6.2.exe","sha256":"67889dcca5e9fd8fcf102bee1ab466d05d28c754d208a9acdf485c629b261361","message":"Updated add article view and fixed zoom issue.","fileSize":116204946}
+{
+    "product":  "SRPhotoCapture",
+    "version":  "3.6.3",
+    "mandatory":  false,
+    "releaseDate":  "2026-09-02",
+    "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.3/SRPhotoCapture_v-3.6.3.exe",
+    "sha256":  "a2383b51c3949ff454e4e68098a59f1c153ffa4878f4054b440d58ef21526139",
+    "message":  "Performance optimizations, camera stability fixes, HUID typing and search, and auto-navigate post login.",
+    "fileSize":  116209549
+}
