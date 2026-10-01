@@ -1,10 +1,10 @@
 {
-  "product": "SRPhotoCapture",
-  "version": "3.6.4",
-  "mandatory": false,
-  "releaseDate": "2026-09-04",
-  "downloadUrl": "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.4/SRPhotoCapture_v-3.6.4.exe",
-  "sha256": "fa91458c7134730cb8a534bf7e3eb55fb05f484e0a0012071404b42865cc1f88",
-  "message": "Fix post-login auto-navigation to allow role switching and dashboard access",
-  "fileSize": 116222570
+    "product":  "SRPhotoCapture",
+    "version":  "3.6.5",
+    "mandatory":  false,
+    "releaseDate":  "2026-10-01",
+    "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.5/SRPhotoCapture_v-3.6.5.exe",
+    "sha256":  "18096403510b16e0bbf2f5b4b284786d2133e3e1cea90de3ee4c62560745e075",
+    "message":  "Companion app tag weight entry with Excel synchronization, modular HTML interface, and capture pipeline enhancements.",
+    "fileSize":  116276875
 }
