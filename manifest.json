@@ -1,10 +1,10 @@
 {
     "product":  "SRPhotoCapture",
-    "version":  "3.6.5",
+    "version":  "3.6.6",
     "mandatory":  false,
-    "releaseDate":  "2026-10-01",
-    "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.5/SRPhotoCapture_v-3.6.5.exe",
-    "sha256":  "18096403510b16e0bbf2f5b4b284786d2133e3e1cea90de3ee4c62560745e075",
-    "message":  "Companion app tag weight entry with Excel synchronization, modular HTML interface, and capture pipeline enhancements.",
-    "fileSize":  116276875
+    "releaseDate":  "2026-10-02",
+    "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.6/SRPhotoCapture_v-3.6.6.exe",
+    "sha256":  "36fc62441122e49da67ac6a8dd946a575ec80cb8134632297548f018e5dbc91c",
+    "message":  "Fix job Excel column layout to place AHC Tag and Weight first, and add Recent Weights window.",
+    "fileSize":  116290726
 }
