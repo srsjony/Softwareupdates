@@ -1,10 +1,10 @@
 {
-    "product":  "SRPhotoCapture",
-    "version":  "3.6.6",
-    "mandatory":  false,
-    "releaseDate":  "2026-10-02",
-    "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.6/SRPhotoCapture_v-3.6.6.exe",
-    "sha256":  "36fc62441122e49da67ac6a8dd946a575ec80cb8134632297548f018e5dbc91c",
-    "message":  "Fix job Excel column layout to place AHC Tag and Weight first, and add Recent Weights window.",
-    "fileSize":  116290726
+  "product": "SRPhotoCapture",
+  "version": "3.6.7",
+  "mandatory": false,
+  "releaseDate": "2026-10-04",
+  "downloadUrl": "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.7/SRPhotoCapture_v-3.6.7.exe",
+  "sha256": "aeb09e0fdddd26525b28f57d68a3c3dc51567c046a96cdbb66efcdbe345d2b78",
+  "message": "v3.6.7: Phone companion enhancements with live crop & zoom, camera controls, weight entry sync, and stability improvements.",
+  "fileSize": 116303784
 }
