@@ -1,10 +1,10 @@
 {
   "product": "SRPhotoCapture",
-  "version": "3.6.7",
+  "version": "3.6.8",
   "mandatory": false,
-  "releaseDate": "2026-10-04",
-  "downloadUrl": "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.7/SRPhotoCapture_v-3.6.7.exe",
-  "sha256": "aeb09e0fdddd26525b28f57d68a3c3dc51567c046a96cdbb66efcdbe345d2b78",
-  "message": "v3.6.7: Phone companion enhancements with live crop & zoom, camera controls, weight entry sync, and stability improvements.",
-  "fileSize": 116303784
+  "releaseDate": "2026-10-05",
+  "downloadUrl": "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.8/SRPhotoCapture_v-3.6.8.exe",
+  "sha256": "e33007225baa9d30ed91f40dd59aa8a0a43424a6d5477a7e1a6f35f4febd1195",
+  "message": "v3.6.8: Phone companion enhancements, camera controls, and auto-updater integration.",
+  "fileSize": 116307632
 }
