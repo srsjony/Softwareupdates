@@ -4,7 +4,7 @@
     "mandatory":  false,
     "releaseDate":  "2026-10-06",
     "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.8/SRPhotoCapture_v-3.6.8.exe",
-    "sha256":  "a8afee7c60d36afcf1591c9e453ee78de65050dd5c89a0d6cd858fc0d34de44b",
+    "sha256":  "0c1d6f8bf1585b99b7b7c1bb4549e63f2be54f85d95e4cf73fe04bbc624d058b",
     "message":  "v3.6.8: Fixed HUID/article camera lag, accelerated upload/tag advance pipeline, and fixed updater downloading older versions.",
-    "fileSize":  116308556
+    "fileSize":  116304885
 }
