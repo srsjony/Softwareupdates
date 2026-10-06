@@ -1,10 +1,10 @@
 {
-  "product": "SRPhotoCapture",
-  "version": "3.6.8",
-  "mandatory": false,
-  "releaseDate": "2026-10-05",
-  "downloadUrl": "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.8/SRPhotoCapture_v-3.6.8.exe",
-  "sha256": "e33007225baa9d30ed91f40dd59aa8a0a43424a6d5477a7e1a6f35f4febd1195",
-  "message": "v3.6.8: Phone companion enhancements, camera controls, and auto-updater integration.",
-  "fileSize": 116307632
+    "product":  "SRPhotoCapture",
+    "version":  "3.6.8",
+    "mandatory":  false,
+    "releaseDate":  "2026-10-06",
+    "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.8/SRPhotoCapture_v-3.6.8.exe",
+    "sha256":  "7e927546c2063ff38645e90ea4d52b50599abb7c4fb4c62bf101491ccbe41411",
+    "message":  "v3.6.8: Fixed webcam latency/delay and added manual updater version download option.",
+    "fileSize":  116308552
 }
