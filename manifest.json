@@ -1,10 +1,10 @@
 {
-    "product":  "SRPhotoCapture",
-    "version":  "3.6.8",
-    "mandatory":  false,
-    "releaseDate":  "2026-10-06",
-    "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.8/SRPhotoCapture_v-3.6.8.exe",
-    "sha256":  "0c1d6f8bf1585b99b7b7c1bb4549e63f2be54f85d95e4cf73fe04bbc624d058b",
-    "message":  "v3.6.8: Fixed HUID/article camera lag, accelerated upload/tag advance pipeline, and fixed updater downloading older versions.",
-    "fileSize":  116304885
+  "product": "SRPhotoCapture",
+  "version": "3.6.8",
+  "mandatory": false,
+  "releaseDate": "2026-10-09",
+  "downloadUrl": "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.8/SRPhotoCapture_v-3.6.8.exe",
+  "sha256": "ae44607c267c223bea4279746a18224435ae80bc0ebb5bb456dd4a4ff818ef47",
+  "message": "v3.6.8: Fixed HUID/article camera lag, accelerated upload/tag advance pipeline, and fixed updater downloading older versions.",
+  "fileSize": 116310143
 }
