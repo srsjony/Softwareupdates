@@ -2,9 +2,9 @@
     "product":  "SRPhotoCapture",
     "version":  "3.6.8",
     "mandatory":  false,
-    "releaseDate":  "2026-10-17",
+    "releaseDate":  "2026-10-18",
     "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.8/SRPhotoCapture_v-3.6.8.exe",
-    "sha256":  "866784c86805f4d3ea8035243e29c164358dd1a6b538b015e24bf13f8679466e",
-    "message":  "v3.6.8: Fixed HUID photo replacement, camera optimizations, and auto-updater integration.",
-    "fileSize":  116336551
+    "sha256":  "56fd8609f37305f409f9777de243a82e9abae1b28169cd75bbd47445375aef2b",
+    "message":  "v3.6.8: Fixed Tag ID piece mismatch on BIS portal, right-to-left HUID filename parsing, and upload verification.",
+    "fileSize":  116336960
 }
