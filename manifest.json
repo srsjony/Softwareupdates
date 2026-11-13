@@ -1,10 +1,10 @@
 {
     "product":  "SRPhotoCapture",
-    "version":  "3.6.8",
+    "version":  "3.6.9",
     "mandatory":  false,
-    "releaseDate":  "2026-10-18",
-    "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.8/SRPhotoCapture_v-3.6.8.exe",
-    "sha256":  "56fd8609f37305f409f9777de243a82e9abae1b28169cd75bbd47445375aef2b",
-    "message":  "v3.6.8: Fixed Tag ID piece mismatch on BIS portal, right-to-left HUID filename parsing, and upload verification.",
-    "fileSize":  116336960
+    "releaseDate":  "2026-11-13",
+    "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.9/SRPhotoCapture_v-3.6.9.exe",
+    "sha256":  "3c9081ba96fb2c28c2df5fa4b96a0b67728b49ea09336f13d76a4ca452af9946",
+    "message":  "v3.6.9: Phone companion improvements, live portal automation \u0026 request number support, and stability enhancements.",
+    "fileSize":  116413171
 }
