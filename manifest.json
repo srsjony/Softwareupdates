@@ -1,10 +1,32 @@
 {
-    "product":  "SRPhotoCapture",
-    "version":  "3.6.9",
-    "mandatory":  false,
-    "releaseDate":  "2026-11-13",
-    "downloadUrl":  "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.9/SRPhotoCapture_v-3.6.9.exe",
-    "sha256":  "3c9081ba96fb2c28c2df5fa4b96a0b67728b49ea09336f13d76a4ca452af9946",
-    "message":  "v3.6.9: Phone companion improvements, live portal automation \u0026 request number support, and stability enhancements.",
-    "fileSize":  116413171
+    "product": "SRPhotoCapture",
+    "version": "3.6.9",
+    "mandatory": false,
+    "releaseDate": "2026-11-13",
+    "downloadUrl": "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.9/SRPhotoCapture_v-3.6.9.exe",
+    "sha256": "3c9081ba96fb2c28c2df5fa4b96a0b67728b49ea09336f13d76a4ca452af9946",
+    "message": "v3.6.9: Phone companion improvements, live portal automation & request number support, and stability enhancements.",
+    "fileSize": 116413171,
+    "products": [
+        {
+            "product": "SRPhotoCapture",
+            "version": "3.6.9",
+            "mandatory": false,
+            "releaseDate": "2026-11-13",
+            "downloadUrl": "https://github.com/srsjony/Softwareupdates/releases/download/v3.6.9/SRPhotoCapture_v-3.6.9.exe",
+            "sha256": "3c9081ba96fb2c28c2df5fa4b96a0b67728b49ea09336f13d76a4ca452af9946",
+            "message": "v3.6.9: Phone companion improvements, live portal automation & request number support, and stability enhancements.",
+            "fileSize": 116413171
+        },
+        {
+            "product": "LYRA",
+            "version": "1.7",
+            "mandatory": false,
+            "releaseDate": "2026-11-25",
+            "downloadUrl": "https://github.com/srsjony/Softwareupdates/releases/download/v1.7/LYRA_v1.7.zip",
+            "sha256": "af9848cc9c7d0ce2db46b0d3e93a96ac0f43923a1290839f89a03783e6f409a1",
+            "message": "v1.7: launch-time auto update, exact Tatkal submit gate, smooth countdowns, scannable QR, portal News sync, animated login and booking reliability fixes.",
+            "fileSize": 370886
+        }
+    ]
 }
