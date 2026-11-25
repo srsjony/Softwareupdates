@@ -20,13 +20,13 @@
         },
         {
             "product": "LYRA",
-            "version": "2.0",
+            "version": "2.1",
             "mandatory": false,
             "releaseDate": "2026-11-25",
-            "downloadUrl": "https://github.com/srsjony/Softwareupdates/releases/download/v2.0/LYRA_v2.0.zip",
-            "sha256": "2c06f60fe0060cda0897c16cd3c89ed5147cf457eb21606b4a8fce244c3ebc03",
-            "message": "v2.0: bounded IRCTC Busy retry loop re-runs the chain with fresh transaction ids; more LAP retries and a visible retry countdown.",
-            "fileSize": 372329
+            "downloadUrl": "https://github.com/srsjony/Softwareupdates/releases/download/v2.1/LYRA_v2.1.zip",
+            "sha256": "59c4e6ff2b4ed96c3dbbb54d8e55df41e0164182fd6c25446619fc27f76c7d54",
+            "message": "v2.1: high-loaded Fare Enquiry no longer blocks the Tatkal chain; TC/fare stay at the gate but are best-effort, so boarding and passenger submit still run.",
+            "fileSize": 373046
         }
     ]
 }
