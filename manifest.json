@@ -20,13 +20,13 @@
         },
         {
             "product": "LYRA",
-            "version": "1.9",
+            "version": "2.0",
             "mandatory": false,
             "releaseDate": "2026-11-25",
-            "downloadUrl": "https://github.com/srsjony/Softwareupdates/releases/download/v1.9/LYRA_v1.9.zip",
-            "sha256": "db14c2489ac946b36d8b95f7568e7b0f3fd3aef4c4783b1e2becf0b71411558e",
-            "message": "v1.9: Akamai 510 Access Denied no longer misread as an IP ban; high load retries as IRCTC Busy with more LAP attempts.",
-            "fileSize": 371747
+            "downloadUrl": "https://github.com/srsjony/Softwareupdates/releases/download/v2.0/LYRA_v2.0.zip",
+            "sha256": "2c06f60fe0060cda0897c16cd3c89ed5147cf457eb21606b4a8fce244c3ebc03",
+            "message": "v2.0: bounded IRCTC Busy retry loop re-runs the chain with fresh transaction ids; more LAP retries and a visible retry countdown.",
+            "fileSize": 372329
         }
     ]
 }
