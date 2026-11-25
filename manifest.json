@@ -20,13 +20,13 @@
         },
         {
             "product": "LYRA",
-            "version": "2.1",
+            "version": "2.2",
             "mandatory": false,
             "releaseDate": "2026-11-25",
-            "downloadUrl": "https://github.com/srsjony/Softwareupdates/releases/download/v2.1/LYRA_v2.1.zip",
-            "sha256": "59c4e6ff2b4ed96c3dbbb54d8e55df41e0164182fd6c25446619fc27f76c7d54",
-            "message": "v2.1: high-loaded Fare Enquiry no longer blocks the Tatkal chain; TC/fare stay at the gate but are best-effort, so boarding and passenger submit still run.",
-            "fileSize": 373046
+            "downloadUrl": "https://github.com/srsjony/Softwareupdates/releases/download/v2.2/LYRA_v2.2.zip",
+            "sha256": "fb92b3ee95e74194c75ef13198c624c0ec051b570814162d582537d5e77af374",
+            "message": "v2.2: waitlist/RAC Yes click now reliably proceeds to payment; confirmation uses an in-app dialog instead of a native messagebox.",
+            "fileSize": 374025
         }
     ]
 }
