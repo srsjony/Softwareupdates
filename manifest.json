@@ -20,13 +20,13 @@
         },
         {
             "product": "LYRA",
-            "version": "2.2",
+            "version": "2.3",
             "mandatory": false,
             "releaseDate": "2026-11-25",
-            "downloadUrl": "https://github.com/srsjony/Softwareupdates/releases/download/v2.2/LYRA_v2.2.zip",
-            "sha256": "fb92b3ee95e74194c75ef13198c624c0ec051b570814162d582537d5e77af374",
-            "message": "v2.2: waitlist/RAC Yes click now reliably proceeds to payment; confirmation uses an in-app dialog instead of a native messagebox.",
-            "fileSize": 374025
+            "downloadUrl": "https://github.com/srsjony/Softwareupdates/releases/download/v2.3/LYRA_v2.3.zip",
+            "sha256": "78021b8d8a4fa8bf7523edee980a60e9aa0e268647d5bf783ca2eeb0b1cedbbb",
+            "message": "v2.3: payment gateway fix - bookingInitPayment left to SPA Pay & Book, bank radio verified, live gateway countdown and IRCTC rejection reporting.",
+            "fileSize": 375345
         }
     ]
 }
