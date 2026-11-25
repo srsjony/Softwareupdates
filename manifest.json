@@ -20,13 +20,13 @@
         },
         {
             "product": "LYRA",
-            "version": "1.7",
+            "version": "1.8",
             "mandatory": false,
             "releaseDate": "2026-11-25",
-            "downloadUrl": "https://github.com/srsjony/Softwareupdates/releases/download/v1.7/LYRA_v1.7.zip",
-            "sha256": "af9848cc9c7d0ce2db46b0d3e93a96ac0f43923a1290839f89a03783e6f409a1",
-            "message": "v1.7: launch-time auto update, exact Tatkal submit gate, smooth countdowns, scannable QR, portal News sync, animated login and booking reliability fixes.",
-            "fileSize": 370886
+            "downloadUrl": "https://github.com/srsjony/Softwareupdates/releases/download/v1.8/LYRA_v1.8.zip",
+            "sha256": "1ddddb02da81563012e3a1fee7c9826171aa842530c7462f1e9e3abe930f30d2",
+            "message": "v1.8: high load no longer misreported as Network Limit; short cooldowns, more LAP retries, pre-submit token refresh and smoother Tatkal timing.",
+            "fileSize": 371605
         }
     ]
 }
