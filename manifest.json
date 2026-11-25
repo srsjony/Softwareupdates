@@ -20,13 +20,13 @@
         },
         {
             "product": "LYRA",
-            "version": "1.8",
+            "version": "1.9",
             "mandatory": false,
             "releaseDate": "2026-11-25",
-            "downloadUrl": "https://github.com/srsjony/Softwareupdates/releases/download/v1.8/LYRA_v1.8.zip",
-            "sha256": "1ddddb02da81563012e3a1fee7c9826171aa842530c7462f1e9e3abe930f30d2",
-            "message": "v1.8: high load no longer misreported as Network Limit; short cooldowns, more LAP retries, pre-submit token refresh and smoother Tatkal timing.",
-            "fileSize": 371605
+            "downloadUrl": "https://github.com/srsjony/Softwareupdates/releases/download/v1.9/LYRA_v1.9.zip",
+            "sha256": "db14c2489ac946b36d8b95f7568e7b0f3fd3aef4c4783b1e2becf0b71411558e",
+            "message": "v1.9: Akamai 510 Access Denied no longer misread as an IP ban; high load retries as IRCTC Busy with more LAP attempts.",
+            "fileSize": 371747
         }
     ]
 }
